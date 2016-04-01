@@ -7,7 +7,7 @@ package Vista;
 
 /**
  *
- * @author User
+ * @author Bryam Blanco
  */
 public class VentanaCalculadora extends javax.swing.JFrame {
 

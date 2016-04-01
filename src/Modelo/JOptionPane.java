@@ -7,7 +7,7 @@ package Modelo;
 
 /**
  *
- * @author User
+ * @author Bryam Blanco
  */
 class JOptionPane {
 

@@ -7,7 +7,7 @@ package quiz1;
 
 /**
  *
- * @author User
+ * @author Bryam Blanco
  */
 public class Quiz1 {
 
